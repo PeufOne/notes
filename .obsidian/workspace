@@ -1,0 +1,143 @@
+{
+  "main": {
+    "id": "a833cf10f5c350bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "27dfc01130b894cf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "journal/2022-08-23.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0871704c2e021461",
+    "type": "split",
+    "children": [
+      {
+        "id": "643833e97e768159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee73a4d511994ced",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7c4c33a30330928",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb6432729cd5453e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03ce53a6f31e7ec2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d730403e030e27d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "563ec7b670580922",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "journal/2022-08-23.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97ef5bb283327622",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "journal/2022-08-23.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80121fbfa7785fce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15ff65b8b914f94b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "journal/2022-08-23.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "27dfc01130b894cf",
+  "lastOpenFiles": [
+    "journal/template.md",
+    "projets/FL/resource.md",
+    "projets/FL/FL.md",
+    "main.md",
+    "journal/2022-08-23.md",
+    "2022-08-23.md",
+    "daily/Untitled 1.md",
+    "daily/Untitled.md",
+    "daily/2022-08-23.md"
+  ]
+}
