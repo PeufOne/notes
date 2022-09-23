@@ -1,15 +1,6 @@
-## ☑︎ - À faire
+## ☑︎ todo
 - [ ] Respirer un bon coup
 
 
 ---
-## 😃 - Réussites
-
-
----
-## ✋ - Obstacles
-
-
----
-## ☏ - Communications
 
