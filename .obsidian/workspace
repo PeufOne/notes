@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "journal/2022-09-22.md",
+            "file": "projets/Pré-Petit/Site internet.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "journal/2022-09-22.md",
+                "file": "projets/Pré-Petit/Site internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "journal/2022-09-22.md",
+                "file": "projets/Pré-Petit/Site internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "journal/2022-09-22.md"
+                "file": "projets/Pré-Petit/Site internet.md"
               }
             }
           }
@@ -130,6 +130,8 @@
   },
   "active": "9689a774b014e0c8",
   "lastOpenFiles": [
+    "projets/Pré-Petit/Site internet.md",
+    "journal/2022-09-22.md",
     "projets/FL/FL.md",
     "projets/FL/resource.md",
     "journal/2022-09-01.md",
@@ -137,8 +139,6 @@
     "journal/2022-08-23.md",
     "main.md",
     "2022-08-23.md",
-    "daily/Untitled 1.md",
-    "daily/Untitled.md",
-    "daily/2022-08-23.md"
+    "daily/Untitled 1.md"
   ]
 }
