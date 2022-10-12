@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projets/Pré-Petit/Site internet.md",
+            "file": "projets/Pré-Petit/Headless CMS.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets/Pré-Petit/Site internet.md",
+                "file": "projets/Pré-Petit/Headless CMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets/Pré-Petit/Site internet.md",
+                "file": "projets/Pré-Petit/Headless CMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets/Pré-Petit/Site internet.md"
+                "file": "projets/Pré-Petit/Headless CMS.md"
               }
             }
           }
@@ -128,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee73a4d511994ced",
+  "active": "9689a774b014e0c8",
   "lastOpenFiles": [
     "projets/Pré-Petit/Site internet.md",
     "journal/2022-09-22.md",
