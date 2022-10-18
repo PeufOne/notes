@@ -1,6 +1,6 @@
 ## ☑︎ Todo site internet
 - [x] Respirer un bon coup
-- [ ] Tout passer en mono page
+- [x] Tout passer en mono page
 - [x] Section - Accueil 
 	- [x] Sélectionner une photo de couverture pour l'accueil
 	- [x] Remplacer "au coeur des FM ..." par "appartement de vacances au coeurs de FM..."
@@ -11,9 +11,9 @@
 	- [x] Ajouter sous-section "espaces communs" avec photos de la cuisine, du salon, de la salle à manger et du jardin (Trouver synonyme pour "espaces communs" -> "espaces de vie" ?)
 	- [x] Mentionner les 300m2
 - [x] Section - "boxes pour cheveaux"
-- [ ] Section - La région
-	- [ ] Supprimer diaporama
-	- [ ] Revoir un petit peu mais pas trop quand même !! 
+- [x] Section - La région
+	- [x] Supprimer diaporama
+	- [x] Revoir un petit peu mais pas trop quand même !! 
 - [ ] Section - Tarifs 
 	- [ ] Durée de séjour minimum 3 nuits --> pourquoi ? 
 	- [ ] Prix du ménage variable selon le nbr de chambres ouvertes ? 
@@ -25,4 +25,4 @@
 	- [ ] Nombre de personnes max et nbr de chambres
 	- [ ] Choix des photos ? 
 - [ ] Vérifier concordance entre infos du site et de booking
-- [ ] Créditer les icônes
+- [x] Créditer les icônes

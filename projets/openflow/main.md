@@ -7,3 +7,5 @@ En définissant et instanciant trois types de briques fondamentals :
 3. **action** permettent de lié des moyens à des produits
 
 Un flux est ainsi représenter quand une ressource effectue un action pour transformer un produit *A* en un produit *B*.
+
+
