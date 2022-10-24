@@ -1,13 +1,23 @@
 
+## Conception
+
+- [Tirroir à sortie total](https://www.youtube.com/watch?v=v_lXl9lpjbY)
 
 
 
-
-## Bois 3000.-
-
+## Bois
 
 
-## Plaque de cuisson 3000.-
+### Fournisseurs
+- [Corbat à Glovelier et Vendlincourt](https://www.groupe-corbat.ch/) <-- Ca à l'air tip top !
+- [Artibois à Alle](https://www.artibois.ch/)
+- [Valbois en Valais (Pour comparrer 🤷‍♂️)](https://www.valbois-sa.com/)
+
+
+## Électro-ménager
+
+
+### Plaque de cuisson
 
 Généralement 60 x 52
 Notation energetique pas obligatoire
@@ -29,14 +39,14 @@ Notation energetique pas obligatoire
 		- [38cm à 1510.-](https://www.nettoland.ch/de/induktion/37778-gaggenau-vi-242-120-vario-flex-induktionskochfeld-serie-200-schwarze-bedienblende-7600377780159.html)
 		- [4 plaques 58cm à 2016.-](https://www.nettoland.ch/de/induktion/37777-gaggenau-vi-262-120-vario-flex-induktionskochfeld-serie-200-schwarze-bedienblende-7600377770358.html)
 
-## Frigo 1000.-
+### Frigo
 
 
-## Evier 500.-
+### Evier
 
 - [Semi égoutoir avec grill](https://www.hornbach.ch/shop/Evier-affleurant-BLANCO-BLANCO-ELON-XL-6-S-F-524855-gris-rocher/4619854/article.html)
 - [Semi égoutoir](https://www.hornbach.ch/shop/Evier-CENTA-Felis-60-780-x-500mm-asphalte-FELIS-60-BL/10526232/article.html)
 
-## Lave-vaisselle 1000.-
+### Lave-vaisselle 
 - [Siemens, 45cm, classe C](https://www.fust.ch/fr/p/cuisine/appareils-de-cuisine-encastrables/lave-vaisselle-encastrables/lave-vaisselle-norme-ue-45-cm/siemens/sr55zs11me-8556539.html)
 - 

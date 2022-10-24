@@ -6,11 +6,12 @@ gantt
 	axisFormat Sem. %U
 
 	section Cuisine
-	Déssiner le plan            :plan,    2022-10-24,    2w
-	Définir budget              :budget,  after plan,    2w
-	Achat materiaux             :command, after budget,  3w
-	Construction en atelier     :build,   after command, 4w
-	Installation                :install, after build,   2w
+		Déssiner le plan            :plan,    2022-10-24,    2w
+		Définir budget              :budget,  after plan,    2w
+		On continu ?                :milestone, after budget
+		Achat materiaux             :command, after budget,  3w
+		Construction en atelier     :build,   after command, 4w
+		Installation                :install, after build,   2w
 
 ```
 

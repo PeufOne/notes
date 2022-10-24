@@ -4,47 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "251090fa1c41ee24",
+        "id": "88ac215daf3361cb",
         "type": "tabs",
         "children": [
           {
-            "id": "4095ff1130a9ba7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "resources/ORM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42e2391b2b60266b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projets/prepetit/la cuisine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f48337555f4d82e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projets/prepetit/la cuisine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "310486f321b40ff2",
+            "id": "3e066e03ba41db57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bce979b47fcbc8e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projets/prepetit/les alentours.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6eaffba392530861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "projets/prepetit/Site internet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets/prepetit/la cuisine.md",
+                "file": "projets/prepetit/roadmap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets/prepetit/la cuisine.md",
+                "file": "projets/prepetit/roadmap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets/prepetit/la cuisine.md"
+                "file": "projets/prepetit/roadmap.md"
               }
             }
           }
@@ -200,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "42e2391b2b60266b",
+  "active": "3e066e03ba41db57",
   "lastOpenFiles": [
+    "Untitled.md",
+    "projets/dubs/dubs.md",
+    "projets/dubs/database.md",
+    "resources/Design.md",
+    "projets/prepetit/roadmap.md",
+    "projets/prepetit/la cuisine.md",
     "projets/prepetit/la medzanine.md",
     "projets/prepetit/les alentours.md",
-    "projets/prepetit/roadmap.md",
     "projets/prepetit/Site internet.md",
-    "projets/prepetit/la cuisine.md",
-    "resources/CAO.md",
-    "resources/Untitled.md",
-    "resources/Headless CMS.md",
-    "resources/ORM.md",
-    "journal/2022-08-23.md"
+    "resources/CAO.md"
   ]
 }
