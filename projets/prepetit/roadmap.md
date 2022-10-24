@@ -17,8 +17,8 @@ gantt
 
 ## Objectifs généraux
 
-- [ ] **Fevrier 2023**, [[la cuisine]] est terminé
-- [ ] **Été 2023**, [[la medzanine]] est installé
+- [ ] **Fevrier 2023**, [[la cuisine]] est terminée
+- [ ] **Été 2023**, [[la medzanine]] est installée
 - [ ] **Fin été 2023**, avancement sur [[les alentours]]
 
 
