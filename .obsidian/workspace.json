@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projets/prepetit/les alentours.md",
+                "file": "projets/prepetit/la cuisine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets/prepetit/les alentours.md",
+                "file": "projets/prepetit/la cuisine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets/prepetit/les alentours.md",
+                "file": "projets/prepetit/la cuisine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets/prepetit/les alentours.md"
+                "file": "projets/prepetit/la cuisine.md"
               }
             }
           }
@@ -141,14 +141,14 @@
   },
   "active": "3e066e03ba41db57",
   "lastOpenFiles": [
-    "projets/prepetit/la grange.md",
-    "projets/prepetit/les alentours.md",
-    "projets/prepetit/la medzanine.md",
+    "projets/dubs/dubs.md",
     "projets/prepetit/la cuisine.md",
+    "projets/dubs/database.md",
+    "projets/prepetit/les alentours.md",
+    "projets/prepetit/la grange.md",
+    "projets/prepetit/la medzanine.md",
     "projets/prepetit/roadmap.md",
     "Untitled.md",
-    "projets/dubs/dubs.md",
-    "projets/dubs/database.md",
     "resources/Design.md",
     "projets/prepetit/Site internet.md"
   ]
