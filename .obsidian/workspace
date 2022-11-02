@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "projets/Pré-Petit/Cuisine.md",
+            "file": "projets/prepetit/la cuisine.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projets/Pré-Petit/Cuisine.md",
+                "file": "projets/prepetit/la cuisine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projets/Pré-Petit/Cuisine.md",
+                "file": "projets/prepetit/la cuisine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projets/Pré-Petit/Cuisine.md"
+                "file": "projets/prepetit/la cuisine.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "9689a774b014e0c8",
   "lastOpenFiles": [
-    "projets/Pré-Petit/Site internet.md",
-    "resources/Headless CMS.md",
-    "journal/2022-08-23.md",
-    "projets/openflow/resource.md",
+    "projets/prepetit/Site internet.md",
+    "projets/prepetit/roadmap.md",
+    "projets/prepetit/les alentours.md",
+    "projets/prepetit/la medzanine.md",
+    "projets/prepetit/la grange.md",
+    "projets/prepetit/la cuisine.md",
     "projets/dubs/dubs.md",
-    "resources/ORM.md",
-    "projets/openflow/database.md",
-    "projets/openflow/main.md",
-    "journal/2022-09-22.md",
-    "journal/2022-09-01.md"
+    "projets/dubs/database.md",
+    "projets/Pré-Petit/Cuisine.md",
+    "projets/Pré-Petit/Site internet.md"
   ]
 }
