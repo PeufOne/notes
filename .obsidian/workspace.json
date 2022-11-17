@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "eaea4aa74081648e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,10 +147,7 @@
     "direction": "horizontal",
     "width": 252.5
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "3e066e03ba41db57",
+  "active": "eaea4aa74081648e",
   "lastOpenFiles": [
     "projets/dubs/dubs.md",
     "projets/prepetit/la cuisine.md",
