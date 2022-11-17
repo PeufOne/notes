@@ -1,6 +1,5 @@
 Database
 
-https://mermaid-js.github.io/mermaid
 
 ```mermaid
 graph LR;  
