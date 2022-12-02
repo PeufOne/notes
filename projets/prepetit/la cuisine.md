@@ -11,10 +11,10 @@ Videos
 
 
 ### Fournisseurs
-- [Corbat à Glovelier et Vendlincourt](https://www.groupe-corbat.ch/) <-- Ca à l'air tip top !
-	- 
+- [Corbat à Glovelier et Vendlincourt](https://www.groupe-corbat.ch/)  tip top mais trop chère!
 - [Artibois à Alle](https://www.artibois.ch/)
 - [Valbois en Valais (Pour comparrer 🤷‍♂️)](https://www.valbois-sa.com/)
+- [bauhause](https://www.bauhaus.ch/fr/) <- Pas chère et c'est comme on voulait (120.- de livraison)
 
 
 ## Électro-ménager
@@ -26,7 +26,7 @@ Généralement 60 x 52
 Notation energetique pas obligatoire
 
 - Avec un tactil pourrie
-	- [Chez IKEA](https://www.ikea.com/ch/fr/p/foerdelaktig-plaque-de-cuisson-av-hotte-integree-ikea-500-noir-40515865/)
+	- [Chez IKEA](https://www.ikea.com/ch/fr/p/foerdelaktig-plaque-de-cuisson-av-hotte-integree-ikea-500-noir-40515865/) <- un bon compromis
 	- [Chez IKEA avec un tactile moins naze](https://www.ikea.com/ch/fr/p/foerdelaktig-plaque-de-cuisson-av-hotte-integree-ikea-700-noir-50449403/)
 - Avec bouton magnetique
 	- [Neff avec un bouton magnétique (79.2 x 51.2)](https://www.galaxus.ch/fr/s2/product/neff-tpt-5820-x-plaques-de-cuisson-vitroceramique-encastrables-11053694?gclid=CjwKCAjw-rOaBhA9EiwAUkLV4l-j6c4p_QFZkbuyMQFfzceC8Tmzgylg-xX4CiIIEQW4pzD7oG5pIhoC7uYQAvD_BwE&gclsrc=aw.ds)
@@ -34,7 +34,7 @@ Notation energetique pas obligatoire
 - Avec ranger de chiffre tactile
 	- [Miele (affleurent)](https://www.nettoshop.ch/fr/M%C3%A9nage-grands-appareils/Cuire-faire-bouillir-et-cuire-%C3%A0-la-vapeur-au-grill/Vitroc%C3%A9ramique-et-plaques-de-cuisson/Vitroc%C3%A9ramique-induct-enc-%C3%A0-fleur/Miele-KM-7564-FL-Plan-de-cuisson/p/IP099816)
 	- [Miel A++ avec aspriration](https://www.microspot.ch/fr/m%C3%A9nage-et-cuisine/gros-%C3%A9lectrom%C3%A9nager/cuisini%C3%A8res-fours--c663000/miele-table-de-cuisson-plaque-kmda7476fl-twoinone-encastrable--p0002770469?gclid=CjwKCAjw-rOaBhA9EiwAUkLV4hNkREhvKLcu1pZaD-TnmlS76ZvZkn79Yyplp_iCtF6x-rTZxi_SpRoC6gsQAvD_BwE&gclsrc=aw.ds)
-- Ideal😬
+- Ideal 😬
 	- [Aspiration A+ Gaggenau (trouver 1200€)](https://www.gaggenau.com/ch/fr/listedesproduits/ventilation/serie-200/aerateurs-de-plan-de-cuisson)
 		- [1420.-](https://www.nettoland.ch/de/tisch-und-muldenlufter/37906-gaggenau-vl-200-120-vario-muldenlueftung-serie-200-schwarze-bedienblende-7600379060259.html)
 	- [Cuisson Gaggenau](https://www.gaggenau.com/ch/fr/listedesproduits/tables-de-cuisson/serie-200/vario-serie-200/modules-vario/VI242120#/Togglebox=accessories/Togglebox=manuals/Togglebox=accessoriesOthers/)
@@ -44,6 +44,7 @@ Notation energetique pas obligatoire
 
 ### Frigo
 
+On a trouvé une occase à 200.-
 
 ### Evier
 
@@ -51,5 +52,5 @@ Notation energetique pas obligatoire
 - [Semi égoutoir](https://www.hornbach.ch/shop/Evier-CENTA-Felis-60-780-x-500mm-asphalte-FELIS-60-BL/10526232/article.html)
 
 ### Lave-vaisselle 
-- [Siemens, 45cm, classe C](https://www.fust.ch/fr/p/cuisine/appareils-de-cuisine-encastrables/lave-vaisselle-encastrables/lave-vaisselle-norme-ue-45-cm/siemens/sr55zs11me-8556539.html)
-- 
+
+On a trouvé une occase à 200.-
